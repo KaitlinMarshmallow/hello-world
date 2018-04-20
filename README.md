@@ -8,7 +8,7 @@
   </head>
   <body>
 <h1>CHS Choir<h1>
-  <h3>2018<h3>
+  <h2>About the CHS Choir Program</h2>
     <p> Choir is a class option offered during the school day for Camas High School students. There are a variety of choirs for multiple skill levels in vocal technique and musical knowledge.</p> <br>
     <The choirs offered are:>
       <ul>
