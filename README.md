@@ -18,7 +18,22 @@
         <li> Period 4: Select Treble Choir (STC)</li>
         <li> Period 5: Bass Choir (BC)</li>
       </ul>  
-    <p>This year, the Camas High School Choir program is working in cooperation with Kelly Pratt and his band as part of the "Business of Music" learning project for the students.</p>
-    <break>            
+     <h4> Period 0</h4>
+      <p>Period 0 choir is a class that occurs during the period before school starts, 0 period. It is a co-ed choir of advanced singers. It requires an audition to join.</p>
+    <h4> Period 1</h4>
+      <p> Period 1 choir is an all men’s choir for advanced singers. It requires an audition to join.</p>
+    <h4> Period 3</h4>
+      <p>Period 3 choir is an all women’s choir meant as an introductory class to choir to build a singer’s skills.</p>
+    <h4> Period 4</h4>
+      <p>Period 4 choir is an all women’s choir for advanced singers. It requires an audition to join.</p>
+    <h4> Period 5</h4>
+      <p>Period 5 is an all men’s choir meant as an introductory class to choir to build a singer’s skills.</p>
+  <h2>Choir Events</h2>
+    <h3>Concerts</h3>
+      <p>To view all choir concert videos, click here<a embed link to chs choir youtube /a>
+      <p>There are four major concerts during the year. There is a concert during each major season: a fall concert, winter concert, spring concert, and summer concert.</p>
+      <h5>Other Concerts</h5>
+
+
   </body>    
 </html>
