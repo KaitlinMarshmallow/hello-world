@@ -32,29 +32,8 @@
       <p>Period 5 is an all men’s choir meant as an introductory class to choir to build a singer’s skills.</p>
   <h2>Choir Events</h2>
     <h3>Concerts</h3>
-      <p>To view all choir concert videos, click here<a <comment>embed link to chs choir youtube</comment> /a>
+      <p>To view all choir concert videos, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" targe="_blank" this link /a>. The older videos are the concert songs. Newer videos relate to the Business of Music Project. To read more on the project, scroll down <comment>I want to create a nav bar with other other events and Project as the other tabs</comment> 
       <p>There are four major concerts during the year. There is a concert during each major season: a fall concert, winter concert, spring concert, and summer concert.</p>
-      <h5>Other Concerts</h5>
-<h5>Fall Concert</h5>
-  <p>The fall concert generally takes place in October near the beginning of each school year</p>
-    <video width=“300” height=“250” controls> 
-      <source src= “<comment>input source from chs choir youtube</comment>” type=“<comment>figure out</comment>”>
-    </video>
-<h5>Winter Concert</h5>
-  <p>The winter concert generally takes place in December about a third of the way through the school year</p>
-     <video width=“300” height=“250” controls> 
-      <source src= “<comment>input source from chs choir youtube</comment>” type=“<comment>figure out</comment>”>
-    </video>
-<h5>Spring Concert</h5>
-  <p>The spring concert generally takes place in March about two-thirds of the way through the school year</p>
-     <video width=“300” height=“250” controls> 
-      <source src= “<comment>input source from chs choir youtube</comment>” type=“<comment>figure out</comment>”>
-    </video>
-<h5>Summer Concert</h5>
-  <p>The summer concert generally takes place in June at the end of the school year</p>
-    <video width=“300” height=“250” controls> 
-      <source src= “<comment>input source from chs choir youtube</comment>” type=“<comment>figure out</comment>”>
-    </video>
  <h3>Other Events</h3>
       <h4>Camas Tree Lighting</h4>
         <p>The Camas Tree Lighting is an event put on by the city of Camas. It takes place in Downtown Camas in December. The event features many performances by various choirs, bands, and ensembles from Camas schools in a variety of tents located throughout downtown. There is also hot cocoa, photos with Santa, and reading to kids. Camas SVE performs at the event each year.</p>
@@ -69,10 +48,11 @@
  <h2>The Business of Music Project, 2017-2018</h2>
    <p>This year, the Camas High School Choir program is working in cooperation with Kelly Pratt and Young Audiences of Oregon and Southwest Washington as part of the "Business of Music" learning project for the students.</p> <br>
    <p>The set features 10 songs featuring various choirs, from one to all of the choirs for each song as well as featured singers. The CHS choir students perform with the band in concerts in the Camas High School theater as part of a choir concert, Portland, OR and Seattle, WA. The shows in Portland and Seattle include the full set.</p>
-   <p>To view dieos of previous performances by CHS choirs and many videos of the Business of Music Collaboration set, including music videos made by students, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" target="_blank">here</a>
+   <p>To view videos of previous performances by CHS choirs and many videos of the Business of Music Collaboration set, including music videos made by students, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" target="_blank">here</a>
    <h3>Portland Concert</h3>
-     <p>The most recent performance for the project occurred at the Portland Institute for Contemporary Art (PICA). The CHS choir performed with Kelly Pratt and his band. The concert began with an opening act by The Shivas, a local Portland band, in which the students participated. To listen to and view part of the set, watch the videos below.</p> 
+     <p>The most recent performance for the project occurred at the Portland Institute for Contemporary Art (PICA). The CHS choir performed with Kelly Pratt and his band. The concert began with an opening act by The Shivas, a local Portland band, in which the students participated. To listen to and view part of the opening act at the PICA concert, watch the video below.</p> 
      <video src="https://www.youtube.com/watch?v=uvHptmqPwdk" width="300" height="250" controls> </video>
+     <comment>I don't know how to get this video to work, try: <video width="300" height="250" controls> <source src="https://www.youtube.com/watch?v=uvHptmqPwdk" type="video/mp4" </video></comment>
               </video>
 
 
