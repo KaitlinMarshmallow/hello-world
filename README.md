@@ -32,7 +32,7 @@
       <p>Period 5 is an all men’s choir meant as an introductory class to choir to build a singer’s skills.</p>
   <h2>Choir Events</h2>
     <h3>Concerts</h3>
-      <p>To view all choir concert videos, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" targe="_blank" this link /a>. The older videos are the concert songs. Newer videos relate to the Business of Music Project. To read more on the project, scroll down <comment>I want to create a nav bar with other other events and Project as the other tabs</comment> </p>
+      <p>To view all choir concert videos, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" target="_blank"> this link </a>. The older videos are the concert songs. Newer videos relate to the Business of Music Project. To read more on the project, scroll down </p> 
       <p>There are four major concerts during the year. There is a concert during each major season: a fall concert, winter concert, spring concert, and summer concert.</p>
  <h3>Other Events</h3>
       <h4>Camas Tree Lighting</h4>
@@ -48,7 +48,7 @@
  <h2>The Business of Music Project, 2017-2018</h2>
    <p>This year, the Camas High School Choir program is working in cooperation with Kelly Pratt and Young Audiences of Oregon and Southwest Washington as part of the "Business of Music" learning project for the students.</p> <br>
    <p>The set features 10 songs featuring various choirs, from one to all of the choirs for each song as well as featured singers. The CHS choir students perform with the band in concerts in the Camas High School theater as part of a choir concert, Portland, OR and Seattle, WA. The shows in Portland and Seattle include the full set.</p>
-   <p>To view videos of previous performances by CHS choirs and many videos of the Business of Music Collaboration set, including music videos made by students, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" target="_blank"> here </a>
+   <p>To view videos of previous performances by CHS choirs and many videos of the Business of Music Collaboration set, including music videos made by students, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" target="_blank"> here </a> </p>
    <h3>Portland Concert</h3>
      <p>The most recent performance for the project occurred at the Portland Institute for Contemporary Art (PICA). The CHS choir performed with Kelly Pratt and his band. The concert began with an opening act by The Shivas, a local Portland band, in which the students participated. To listen to and view part of the opening act at the PICA concert, watch the video below.</p> 
      <video src="https://www.youtube.com/watch?v=uvHptmqPwdk" width="300" height="250" controls> </video>
