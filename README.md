@@ -64,11 +64,14 @@
           <p>Each year, SVE performs at the CHS graduation.</p>
        <h4>Choir Barbeque<h4>
          <p>At the end of the year, the CHS choir program has a program-wide barbeque to celebrate at the end of the year.</p>
- <h1>The Business of Music Project, 2017-2018</h1>
-   <p>This year, the Camas High School Choir program is working in cooperation with Kelly Pratt and his band as part of the "Business of Music" learning project for the students.</p> <br>
-   <p>The set features 10 songs featuring various choirs, from one to all of the choirs for each song as well as featured singers. The CHS choir students perform with the band in concerts.</p>
+ <h2>The Business of Music Project, 2017-2018</h2>
+   <p>This year, the Camas High School Choir program is working in cooperation with Kelly Pratt and Young Audiences of Oregon and Southwest Washington as part of the "Business of Music" learning project for the students.</p> <br>
+   <p>The set features 10 songs featuring various choirs, from one to all of the choirs for each song as well as featured singers. The CHS choir students perform with the band in concerts in the Camas High School theater as part of a choir concert, Portland, OR and Seattle, WA. The shows in Portland and Seattle include the full set.</p>
    <h3>Portland Concert</h3>
-     <p>The most recent performance for the project occurred at the Portland Institute for Contemporary Art (PICA).</p> 
+     <p>The most recent performance for the project occurred at the Portland Institute for Contemporary Art (PICA). The CHS choir performed with Kelly Pratt and his band. The concert began with an opening act by The Shivas, a local Portland band, in which the students participated. To listen to and view part of the set, watch the videos below.</p> 
+     <video width="300" height="250" controls>
+      <source src="https://www.youtube.com/watch?v=uvHptmqPwdk" type="MPEG4"
+              </video>
 
 
   </body>    
