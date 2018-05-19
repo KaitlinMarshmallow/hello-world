@@ -32,7 +32,7 @@
       <p>Period 5 is an all men’s choir meant as an introductory class to choir to build a singer’s skills.</p>
   <h2>Choir Events</h2>
     <h3>Concerts</h3>
-      <p>To view all choir concert videos, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" targe="_blank" this link /a>. The older videos are the concert songs. Newer videos relate to the Business of Music Project. To read more on the project, scroll down <comment>I want to create a nav bar with other other events and Project as the other tabs</comment> 
+      <p>To view all choir concert videos, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" targe="_blank" this link /a>. The older videos are the concert songs. Newer videos relate to the Business of Music Project. To read more on the project, scroll down <comment>I want to create a nav bar with other other events and Project as the other tabs</comment> </p>
       <p>There are four major concerts during the year. There is a concert during each major season: a fall concert, winter concert, spring concert, and summer concert.</p>
  <h3>Other Events</h3>
       <h4>Camas Tree Lighting</h4>
