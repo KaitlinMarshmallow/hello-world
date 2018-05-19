@@ -62,9 +62,9 @@
         <p>Evening on Broadway is a performance put on by the CHS choir program because it features performances by each choir. The event is themed around musical theatre performances. Many solos, duets, and group performances are also featured, and the auditions are open to a variety of performers.</p>
         <h4>Camas Got Talent</h4>
 <p>Although Camas Got Talent is not a choir-specific event, it is organized and put on by the CHS choir department.</p>
-        <h4>Graduation<h4>
+        <h4>Graduation</h4>
           <p>Each year, SVE performs at the CHS graduation.</p>
-       <h4>Choir Barbeque<h4>
+       <h4>Choir Barbeque</h4>
          <p>At the end of the year, the CHS choir program has a program-wide barbeque to celebrate at the end of the year.</p>
  <h2>The Business of Music Project, 2017-2018</h2>
    <p>This year, the Camas High School Choir program is working in cooperation with Kelly Pratt and Young Audiences of Oregon and Southwest Washington as part of the "Business of Music" learning project for the students.</p> <br>
@@ -73,7 +73,7 @@
    <h3>Portland Concert</h3>
      <p>The most recent performance for the project occurred at the Portland Institute for Contemporary Art (PICA). The CHS choir performed with Kelly Pratt and his band. The concert began with an opening act by The Shivas, a local Portland band, in which the students participated. To listen to and view part of the set, watch the videos below.</p> 
      <video width="300" height="250" controls>
-      <source src="https://www.youtube.com/watch?v=uvHptmqPwdk" type="MPEG4">
+      <source src="https://www.youtube.com/watch?v=uvHptmqPwdk" type="MOV">
               </video>
 
 
