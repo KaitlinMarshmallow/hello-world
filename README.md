@@ -64,7 +64,7 @@
           <p>Each year, SVE performs at the CHS graduation.</p>
        <h4>Choir Barbeque<h4>
          <p>At the end of the year, the CHS choir program has a program-wide barbeque to celebrate at the end of the year.</p>
- <h1>The Business of Music Project, 2017-2018<h1>
+ <h1>The Business of Music Project, 2017-2018</h1>
    <p>This year, the Camas High School Choir program is working in cooperation with Kelly Pratt and his band as part of the "Business of Music" learning project for the students.</p> <br>
    <p>The set features 10 songs featuring various choirs, from one to all of the choirs for each song as well as featured singers. The CHS choir students perform with the band in concerts.</p>
    <h4>Portland Concert</p>
