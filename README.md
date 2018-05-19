@@ -1,11 +1,13 @@
 <!DOCTYPEhtml>
 <html>
-  <head> 
+  <commment> 
+    <head> 
     <title>
     CHS Choir.
     </title>
       A Website about CHS Choir. There will especially be a focus on the current project.
   </head>
+    </comment>
   <body>
 <h1>CHS Choir<h1>
   <h2>About the CHS Choir Program</h2>
@@ -67,10 +69,11 @@
  <h2>The Business of Music Project, 2017-2018</h2>
    <p>This year, the Camas High School Choir program is working in cooperation with Kelly Pratt and Young Audiences of Oregon and Southwest Washington as part of the "Business of Music" learning project for the students.</p> <br>
    <p>The set features 10 songs featuring various choirs, from one to all of the choirs for each song as well as featured singers. The CHS choir students perform with the band in concerts in the Camas High School theater as part of a choir concert, Portland, OR and Seattle, WA. The shows in Portland and Seattle include the full set.</p>
+   <p>To view dieos of previous performances by CHS choirs and many videos of the Business of Music Collaboration set, including music videos made by students, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" target="_blank">here</a>
    <h3>Portland Concert</h3>
      <p>The most recent performance for the project occurred at the Portland Institute for Contemporary Art (PICA). The CHS choir performed with Kelly Pratt and his band. The concert began with an opening act by The Shivas, a local Portland band, in which the students participated. To listen to and view part of the set, watch the videos below.</p> 
      <video width="300" height="250" controls>
-      <source src="https://www.youtube.com/watch?v=uvHptmqPwdk" type="MPEG4"
+      <source src="https://www.youtube.com/watch?v=uvHptmqPwdk" type="MPEG4">
               </video>
 
 
