@@ -67,7 +67,7 @@
  <h1>The Business of Music Project, 2017-2018</h1>
    <p>This year, the Camas High School Choir program is working in cooperation with Kelly Pratt and his band as part of the "Business of Music" learning project for the students.</p> <br>
    <p>The set features 10 songs featuring various choirs, from one to all of the choirs for each song as well as featured singers. The CHS choir students perform with the band in concerts.</p>
-   <h4>Portland Concert</p>
+   <h3>Portland Concert</h3>
      <p>The most recent performance for the project occurred at the Portland Institute for Contemporary Art (PICA).</p> 
 
 
