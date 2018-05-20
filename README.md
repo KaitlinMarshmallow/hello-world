@@ -9,6 +9,7 @@
     </head> 
   </comment>
   <body>
+    
 <h1>CHS Choir<h1>
   <h2>About the CHS Choir Program</h2>
     <p> Choir is a class option offered during the school day for Camas High School students. There are a variety of choirs for multiple skill levels in vocal technique and musical knowledge.</p> <br>
@@ -30,6 +31,8 @@
       <p>Period 4 choir is an all women’s choir for advanced singers. It requires an audition to join.</p>
     <h4> Period 5</h4>
       <p>Period 5 is an all men’s choir meant as an introductory class to choir to build a singer’s skills.</p>
+      
+      
   <h2>Choir Events</h2>
     <h3>Concerts</h3>
       <p>To view all choir concert videos, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" target="_blank"> this. </a> The older videos are the concert songs. Newer videos relate to the Business of Music Project. To read more on the project, scroll down </p> 
@@ -45,6 +48,8 @@
           <p>Each year, SVE performs at the CHS graduation.</p>
        <h4>Choir Barbeque</h4>
          <p>At the end of the year, the CHS choir program has a program-wide barbeque to celebrate at the end of the year.</p>
+         
+         
  <h2>The Business of Music Project, 2017-2018</h2>
    <p>This year, the Camas High School Choir program is working in cooperation with Kelly Pratt and Young Audiences of Oregon and Southwest Washington as part of the "Business of Music" learning project for the students.</p> <br>
    <p>The set features 10 songs featuring various choirs, from one to all of the choirs for each song as well as featured singers. The CHS choir students perform with the band in concerts in the Camas High School theater as part of a choir concert, Portland, OR and Seattle, WA. The shows in Portland and Seattle include the full set.</p>
@@ -64,6 +69,7 @@
    <h3>Portland Concert</h3>
      <p>The most recent performance for the project occurred at the Portland Institute for Contemporary Art (PICA). The CHS choir performed with Kelly Pratt and his band. The concert began with an opening act by The Shivas, a local Portland band, in which the students participated. To listen to and view part of the opening act at the PICA concert, watch the video below.</p> 
       <iframe width="500" height="315" src="https://www.youtube.com/embed/uvHptmqPwdk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+     
      <p>To read more about the project itself and/or the performance specifically, click on some of the articles below.</p>
      <p> For Music Innovator Awards, click this <a href="https://www.giveanote.org/initiatives/music-education-innovator-award/"> link </a> and/or this <a href="https://www.giveanote.org/blog/2018/04/give-a-note-foundation-awards-five-music-programs-for-innovation-in-music-education/"> link </a>  and various award details, click <a href="http://www.prweb.com/releases/2018/04/prweb15423184.htm"> here. </a> </p>
      <p> To read about various press releases, use any of the links below to various news articles on the concert. </p>
