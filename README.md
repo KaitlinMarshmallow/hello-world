@@ -6,8 +6,8 @@
     CHS Choir.
     </title>
       A Website about CHS Choir. There will especially be a focus on the current project.
-  </head>
-    </comment>
+    </head> 
+  </comment>
   <body>
 <h1>CHS Choir<h1>
   <h2>About the CHS Choir Program</h2>
@@ -54,6 +54,8 @@
      <video src="https://www.youtube.com/watch?v=uvHptmqPwdk" width="300" height="250" controls> </video>
      <comment>I don't know how to get this video to work, try: <video width="300" height="250" controls> <source src="https://www.youtube.com/watch?v=uvHptmqPwdk" type="video/mp4" </video></comment>
               </video>
+      <p> A comment for trial purposes: Trying this option too </p>
+      <iframe width="400" height="315" src="https://www.youtube.com/embed/uvHptmqPwdk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
      <p>To read more about the project itself and/or the performance specifically, click on some of the articles below.</p>
      <p> For Music Innovator Awards, click this <a href="https://www.giveanote.org/initiatives/music-education-innovator-award/"> link </a> and/or this <a href="https://www.giveanote.org/blog/2018/04/give-a-note-foundation-awards-five-music-programs-for-innovation-in-music-education/"> link </a>  and various award details, click <a href="http://www.prweb.com/releases/2018/04/prweb15423184.htm"> here. </a> </p>
      <p> To read about various press releases, use any of the links below to various news articles on the concert. </p>
@@ -65,6 +67,6 @@
         <li> <a href="http://www.orartswatch.org/third-angle-hand2mouth-bright-moments-previews-pop-goes-classical/"> Oregon Artswatch </a>
         <li> <a href="http://www.wweek.com/calendar/cal/1264657/"> Willamette Week </a>
       </ul>
-
+      
   </body>    
 </html>
