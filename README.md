@@ -51,11 +51,7 @@
    <p>To view videos of previous performances by CHS choirs and many videos of the Business of Music Collaboration set, including music videos made by students, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" target="_blank"> here </a> </p>
    <h3>Portland Concert</h3>
      <p>The most recent performance for the project occurred at the Portland Institute for Contemporary Art (PICA). The CHS choir performed with Kelly Pratt and his band. The concert began with an opening act by The Shivas, a local Portland band, in which the students participated. To listen to and view part of the opening act at the PICA concert, watch the video below.</p> 
-     <video src="https://www.youtube.com/watch?v=uvHptmqPwdk" width="300" height="250" controls> </video>
-     <comment>I don't know how to get this video to work, try: <video width="300" height="250" controls> <source src="https://www.youtube.com/watch?v=uvHptmqPwdk" type="video/mp4" </video></comment>
-              </video>
-      <p> A comment for trial purposes: Trying this option too </p>
-      <iframe width="400" height="315" src="https://www.youtube.com/embed/uvHptmqPwdk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe width="500" height="315" src="https://www.youtube.com/embed/uvHptmqPwdk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
      <p>To read more about the project itself and/or the performance specifically, click on some of the articles below.</p>
      <p> For Music Innovator Awards, click this <a href="https://www.giveanote.org/initiatives/music-education-innovator-award/"> link </a> and/or this <a href="https://www.giveanote.org/blog/2018/04/give-a-note-foundation-awards-five-music-programs-for-innovation-in-music-education/"> link </a>  and various award details, click <a href="http://www.prweb.com/releases/2018/04/prweb15423184.htm"> here. </a> </p>
      <p> To read about various press releases, use any of the links below to various news articles on the concert. </p>
