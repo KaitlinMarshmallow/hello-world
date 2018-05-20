@@ -32,7 +32,7 @@
       <p>Period 5 is an all men’s choir meant as an introductory class to choir to build a singer’s skills.</p>
   <h2>Choir Events</h2>
     <h3>Concerts</h3>
-      <p>To view all choir concert videos, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" target="_blank"> this </a>. The older videos are the concert songs. Newer videos relate to the Business of Music Project. To read more on the project, scroll down </p> 
+      <p>To view all choir concert videos, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" target="_blank"> this. </a> The older videos are the concert songs. Newer videos relate to the Business of Music Project. To read more on the project, scroll down </p> 
       <p>There are four major concerts during the year. There is a concert during each major season: a fall concert, winter concert, spring concert, and summer concert.</p>
  <h3>Other Events</h3>
       <h4>Camas Tree Lighting</h4>
@@ -54,7 +54,8 @@
      <video src="https://www.youtube.com/watch?v=uvHptmqPwdk" width="300" height="250" controls> </video>
      <comment>I don't know how to get this video to work, try: <video width="300" height="250" controls> <source src="https://www.youtube.com/watch?v=uvHptmqPwdk" type="video/mp4" </video></comment>
               </video>
-
+     <p>To read more about the project itself and/or the performance specifically, click on some of the articles below.</p>
+     <p> For music innovator awards, click this <a href="https://www.giveanote.org/initiatives/music-education-innovator-award/"> link </a> and/or this <a href="https://www.giveanote.org/blog/2018/04/give-a-note-foundation-awards-five-music-programs-for-innovation-in-music-education/"> link </a>  and various award details, click <a href="http://www.prweb.com/releases/2018/04/prweb15423184.htm"> here. </a> </p>
 
   </body>    
 </html>
