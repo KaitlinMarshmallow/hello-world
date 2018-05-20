@@ -55,8 +55,8 @@
      <comment>I don't know how to get this video to work, try: <video width="300" height="250" controls> <source src="https://www.youtube.com/watch?v=uvHptmqPwdk" type="video/mp4" </video></comment>
               </video>
      <p>To read more about the project itself and/or the performance specifically, click on some of the articles below.</p>
-     <p> For music innovator awards, click this <a href="https://www.giveanote.org/initiatives/music-education-innovator-award/"> link </a> and/or this <a href="https://www.giveanote.org/blog/2018/04/give-a-note-foundation-awards-five-music-programs-for-innovation-in-music-education/"> link </a>  and various award details, click <a href="http://www.prweb.com/releases/2018/04/prweb15423184.htm"> here. </a> </p>
-     <p> To read about various press releases, use any of the links below to various news articles on the concert </p>
+     <p> For Music Innovator Awards, click this <a href="https://www.giveanote.org/initiatives/music-education-innovator-award/"> link </a> and/or this <a href="https://www.giveanote.org/blog/2018/04/give-a-note-foundation-awards-five-music-programs-for-innovation-in-music-education/"> link </a>  and various award details, click <a href="http://www.prweb.com/releases/2018/04/prweb15423184.htm"> here. </a> </p>
+     <p> To read about various press releases, use any of the links below to various news articles on the concert. </p>
       <ul>
         <li> <a href="http://www.camas.wednet.edu/news/camas-high-choir-teams-indie-rock-composer/"> Camas School District </a>
         <li> <a href="http://www.camaspostrecord.com/news/2018/apr/12/camas-high-choir-teams-up-with-indie-rock-composer/"> The Camas-Washougal Post Record </a>
