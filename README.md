@@ -56,6 +56,15 @@
               </video>
      <p>To read more about the project itself and/or the performance specifically, click on some of the articles below.</p>
      <p> For music innovator awards, click this <a href="https://www.giveanote.org/initiatives/music-education-innovator-award/"> link </a> and/or this <a href="https://www.giveanote.org/blog/2018/04/give-a-note-foundation-awards-five-music-programs-for-innovation-in-music-education/"> link </a>  and various award details, click <a href="http://www.prweb.com/releases/2018/04/prweb15423184.htm"> here. </a> </p>
+     <p> To read about various press releases, use any of the links below to various news articles on the concert </p>
+      <ul>
+        <li> <a href="http://www.camas.wednet.edu/news/camas-high-choir-teams-indie-rock-composer/"> Camas School District </a>
+        <li> <a href="http://www.camaspostrecord.com/news/2018/apr/12/camas-high-choir-teams-up-with-indie-rock-composer/"> The Camas-Washougal Post Record </a>
+        <li> <a href="http://www.columbian.com/news/2018/apr/13/camas-choir-students-get-a-lesson-in-the-music-business/"> The Columbian </a>
+        <li> <a href="https://www.portlandmercury.com/music/2018/04/11/19807715/kelly-pratt-premieres-new-work-as-bright-moments-with-the-camas-high-school-choir"> The Porland Mercury </a>
+        <li> <a href="http://www.orartswatch.org/third-angle-hand2mouth-bright-moments-previews-pop-goes-classical/"> Oregon Artswatch </a>
+        <li> <a href="http://www.wweek.com/calendar/cal/1264657/"> Willamette Week </a>
+      </ul>
 
   </body>    
 </html>
