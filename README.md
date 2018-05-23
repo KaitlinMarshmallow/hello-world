@@ -55,9 +55,12 @@
       <p> The songs are: NOTE: NOT COMPLETE MUST BE CHECKED AND ACURATELY UPDATED</p>
         <ol>
           <li> Side By Side </li>
+          <li> Sanctuary </li>
           <li> Let It Burn </li>
+          <li> Good Old Days </li>
           <li> Bring It Down </li>
           <li> Just In Time </li>
+          <li> Go Cold </li>
           <li> White Out </li>
           <li> The Dream </li>
         <ol>
