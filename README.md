@@ -64,7 +64,7 @@
         <br>       
    <p>To view videos of previous performances by CHS choirs and many videos of the Business of Music Collaboration set, including music videos made by students, click <a href="https://www.youtube.com/channel/UC6Lb2xV-sxh-MuK6lnI0X3w/videos" target="_blank"> here </a> </p>
    <h3>Portland Concert</h3>
-     <p>The most recent performance for the project occurred on April 13, 2018 at the Portland Institute for Contemporary Art (PICA) located at 15 NE Hancock St, Portland, OR 97212. The CHS choir performed with Kelly Pratt and his band. The concert began with an opening act by The Shivas, a local Portland band, in which the students participated. To listen to and view part of the opening act at the PICA concert, watch the video below.</p> 
+     <p>The most recent performance for the project occurred on April 13, 2018 at the Portland Institute for Contemporary Art (PICA) located at 15 NE Hancock St, Portland, OR 97212. Tickets were priced at $10 in advance and $12 at the door. The CHS choir performed with Kelly Pratt and Bright Moments. The concert began with an opening act by The Shivas, a local Portland band, in which the students participated. To listen to and view part of the opening act at the PICA concert, watch the video below.</p> 
       <iframe width="500" height="315" src="https://www.youtube.com/embed/uvHptmqPwdk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
      <p> The performance took place in the warehouse building. The students began the concert by surrounding the audience before moving into the opening act. The goal of the performance was to be a <em>completely immersive experience</em>. Music videos accompanied the songs; they were projected on the walls. The lighting set the atmosphere of the choir clothed in all black. The music they sung spoke of what it means to be <strong>human in an ever changing world</strong>, commenting on the modern day.</p>
      <p>To read more about the project itself and/or the performance specifically, click on some of the articles below.</p>
@@ -78,6 +78,12 @@
         <li> <a href="http://www.orartswatch.org/third-angle-hand2mouth-bright-moments-previews-pop-goes-classical/"> Oregon Artswatch </a>
         <li> <a href="http://www.wweek.com/calendar/cal/1264657/"> Willamette Week </a>
       </ul>
+    <h3>Seattle Concert</h3>
+      <p>Camas Choirs and Bright Moments are going on tour from May 24 through May 27, 2018. The performance stop will be at The Vera Project at 305 Harrison St. (in the Seattle Center), Seattle on Thursday, May 24. The ticket price is the same as the Portland concert. The link for ticket purchase can be found <a href="https://www.ticketfly.com/event/1686167"> here. </a> </p>
+          <br>
+      <p> The facebook page for the event can be found at https://www.facebook.com/events/234445007292836/.</p>
+
+          
       
   </body>    
 </html>
