@@ -81,7 +81,7 @@
     <h3>Seattle Concert</h3>
       <p>Camas Choirs and Bright Moments are going on tour from May 24 through May 27, 2018. The performance stop will be at The Vera Project at 305 Harrison St. (in the Seattle Center), Seattle on Thursday, May 24. The ticket price is the same as the Portland concert. The link for ticket purchase can be found <a href="https://www.ticketfly.com/event/1686167"> here. </a> </p>
           <br>
-      <p> The facebook page for the event can be found at https://www.facebook.com/events/234445007292836/.</p>
+      <p> The facebook page for the event can be found at this <a href="https://www.facebook.com/events/234445007292836/"> link. </a> </p>
 
           
       
